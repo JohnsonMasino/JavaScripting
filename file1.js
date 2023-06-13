@@ -1,7 +1,7 @@
 let name = "Masino";
 let num = '9036206457';
 
-if name === "Masino" {
+if name == "Masino" {
 	alert("My name is 'Masino'");
 	alert("Done from here");
 } else {
